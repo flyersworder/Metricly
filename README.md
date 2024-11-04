@@ -5,8 +5,8 @@ Metricly is an open-source Python framework designed to streamline marketing ana
 
 Features:
 
-	•	Process behavior charts tailored to marketing metrics
-	•	Campaign performance evaluation tools
-	•	Customizable KPI tracking
-	•	Real-time anomaly detection and trend analysis
-	•	Easy integration with popular data visualization and reporting libraries
+- Process behavior charts tailored to marketing metrics
+- Campaign performance evaluation tools
+- Customizable KPI tracking
+- Real-time anomaly detection and trend analysis
+- Easy integration with popular data visualization and reporting libraries
